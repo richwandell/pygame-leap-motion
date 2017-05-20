@@ -1,0 +1,11 @@
+* text eol=lf
+* text eol=lf
+*.png binary
+*.wav binary
+*.jpg binary
+*.pyd binary
+*.lib binary
+*.dll binary
+*.pyd binary
+*.obj binary
+*.exp binary
